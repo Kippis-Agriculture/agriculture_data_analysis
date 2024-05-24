@@ -12,4 +12,6 @@ https://www.forbes.com/sites/maggiemcgrath/2017/06/28/the-25-most-innovative-ag-
 
 ## Things to try
 
-https://www.kaggle.com/code/carlosarmiens/ship-detection-from-satellite-accuracy-99-5
+* https://www.kaggle.com/code/carlosarmiens/ship-detection-from-satellite-accuracy-99-5
+
+* https://www.kaggle.com/code/hknaralasetty/earth-satellites-eda-randomforest-for-lifetime
